@@ -4,4 +4,4 @@ This repository contains MongoDB queries for a product dataset. Practice retriev
 
 # SCREEN SHOOT
 
-<img src ="" />
+<img src ="mongodb.png" />
